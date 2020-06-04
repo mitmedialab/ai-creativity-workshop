@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+}
+
+.explanations {
+  margin: 0rem 0rem;
+  padding: 2rem 20rem;
+}
+
+.module {
+  margin: 0rem 0rem;
+  padding: 2rem 2rem;
+}
+
+.intro, .activity, .heading {
+  margin: 0rem 0rem;
+  padding: 0rem 10rem;
+}
+
+img {
+  width: 20rem;
+  height:15rem;
+}
+
+h1, h4, h5, h6 {
+  margin: 0rem 0rem;
+  padding: 1rem 0rem;
+}
