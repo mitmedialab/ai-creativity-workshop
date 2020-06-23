@@ -3,9 +3,14 @@ body {
   line-height: 1.6;
 }
 
+.banner {
+  margin: 0rem 0rem;
+  padding: 1rem 20rem;
+}
+
 .explanations {
   margin: 0rem 0rem;
-  padding: 2rem 20rem;
+  padding: 1rem 20rem;
 }
 
 .module {
