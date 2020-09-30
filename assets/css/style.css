@@ -24,8 +24,8 @@ body {
 }
 
 img {
-  width: 20rem;
-  height:15rem;
+  max-width: 100%;
+  height: auto;
 }
 
 h1, h4, h5, h6 {
