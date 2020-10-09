@@ -32,3 +32,8 @@ h1, h4, h5, h6 {
   margin: 0rem 0rem;
   padding: 1rem 0rem;
 }
+
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #bbb;
+}
