@@ -44,11 +44,6 @@ figure img {
   margin-bottom: 10px;
 }
 
-.people-head{
-  margin: 1px;
-  padding: 6%;
-}
-
 .profile-card {
   margin: 1px;
   background-color: #eee;
@@ -75,3 +70,9 @@ figcaption a {
   font-weight: normal;
 }
 
+.shrink{
+-webkit-transform:scale(0.5);
+-moz-transform:scale(0.5);
+-ms-transform:scale(0.5);
+transform:scale(0.5);
+}
