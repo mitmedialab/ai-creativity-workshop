@@ -74,3 +74,29 @@ figcaption a {
   margin-right: 100px;
   margin-left: 100px;
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  position: absolute;
+  top: 300px;
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: red;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: red;
+}
